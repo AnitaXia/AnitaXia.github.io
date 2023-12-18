@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://anitaxia.github.io</id>
+    <title>bibiplace</title>
+    <updated>2023-12-18T03:18:58.292Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://anitaxia.github.io"/>
+    <link rel="self" href="https://anitaxia.github.io/atom.xml"/>
+    <subtitle>人总要和自己对话</subtitle>
+    <logo>https://anitaxia.github.io/images/avatar.png</logo>
+    <icon>https://anitaxia.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, bibiplace</rights>
+    <entry>
+        <title type="html"><![CDATA[23.12.17]]></title>
+        <id>https://anitaxia.github.io/post/231217/</id>
+        <link href="https://anitaxia.github.io/post/231217/">
+        </link>
+        <updated>2023-12-18T03:13:52.000Z</updated>
+        <content type="html"><![CDATA[<p>毕业之前和阿西说，感觉毕业后，只要我不在广州，大家就不会怎么联系了，当时她觉得不会的，即便不在一块，也依然能保持联系，但是我知道我不会的</p>
+<p>不在一个地方，再加上我一直在家里，没有什么新鲜的事想要分享，在家待着就是会没有分享欲吧，平时都平平淡淡的，也没什么事，让我分享什么呢，如果她和我分享学校里的事，刚毕业的时候或许我还会感兴趣吧，时间久了，我只会觉得那些人和我没什么关系啊，发生就发生吧，能怎样呢，在整个生活中，那都不算什么重要的事</p>
+<p>她在写论文，搞学术，找工作，这是她的日常，我们的日常不再有交集，就会缺少很多共同的话题，不知道该说什么，如果问我最近怎么样，好像也就那样，没有好，但是也没有坏吧，重要的是我一点也不想说，或者一开始我想说的，说多了发现都是那些东西，那我说个什么呢，一直是低气压，负情绪，谁喜欢呢，每次都是这么些玩意</p>
+<p>所以我说我们不会在那么关系好了，就像我和菜花、企鹅她们，我也一直觉得没了很多共同话题，出去的时候，她们自然是工作的事更多，而我还是个没被毒打的学生，总会觉得缺少话题聊，好像除了打个游戏，就没有什么可以分享的了</p>
+<p>听我妹发一些她的日常，有的时候我也会不想看，我会想读研的时候我是不是也经常这么发呢，我忘记了，估计有吧，发的时候自然是快乐的，可是对于看的我来说，我感觉我有两种心情，一种是羡慕啊，羡慕还在学校的生活，一种是哦，就这样，我懂的，我也体会过的，感觉就没有其他东西了</p>
+<p>我一定是个I人，我在家久了，我就觉得自己一个人也挺好的，不需要去考虑其他人的心情，除了在家有家里的压力，其他还是相对自由的，相对吧，在外面自然好，独居就最好了，什么都不会有人管，完全的自由，在家就是出个门都要解释一下你干嘛去，你出门和谁一起，各种，各种麻烦的东西</p>
+<p>自己，自己看了演唱会，感觉挺好的，去旅游，好累，和菜花一起感觉好累，和阿西的时候也好累，这么一比，和我妹的时候反而是最舒服的，她睡得早，我也能早点睡，这样白天相对精神一点；但是我更想自己一个人去旅游，不用考虑其他的，除了吃东西，住宿会没有那么实惠吧</p>
+<p>让我买国债，或许是因为觉得我自己的闲钱太多了，觉得我乱花吧，所以把一堆钱都弄进去，控制我花钱呗，就是即便25了，也不会给我自由，一直说等经济独立了，等我赚钱了就好了，我想未来也不会的，只有我不在家，他们管不到的时候，才可能真的自由</p>
+<p>觉得自己没什么本事，没工作，也没好好学习，重要的是甚至不知道自己要干什么，这就很离谱了，活了差不多26年了，可是依然不知道自己想要做什么，想要什么的话，想要真正的自由，想要经济独立，想要发言权，但是工作，不知道</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人总要和自己对话]]></title>
+        <id>https://anitaxia.github.io/post/hello-gridea/</id>
+        <link href="https://anitaxia.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏 I'm anyone.<br>
+✍️  随便逛逛，想走就走，想来就来</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏 I'm anyone.<br>
+✍️  随便逛逛，想走就走，想来就来</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
